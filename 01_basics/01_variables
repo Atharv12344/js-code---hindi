@@ -1,0 +1,5 @@
+const accountId = 0987654
+let accountEmail = "atharvsharma34@gmail.com"
+var accountPassword = "12345"
+accountCity = "kanpur"
+console.log(accountId); 
